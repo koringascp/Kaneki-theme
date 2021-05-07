@@ -1,0 +1,9 @@
+{
+    "name": "Kaneki-kun",
+    "description": "Nani.",
+    "version": "1",
+    "author": "Saiyd#6544",
+    "theme": "saiyd.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
